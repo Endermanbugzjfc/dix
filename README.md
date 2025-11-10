@@ -5,6 +5,7 @@
 3. Run the build command on the same shell session every time unless all your shell sessions share the same history.
 4. If your configuration becomes missing from the shell history, you lose and have to start over.
 5. `github:nixos/nixpkgs/nixos-unstable` is the only flake input.
-6. Rolling back to a previously built generation is allowed.
+6. Fetchers are allowed.
+7. Rolling back to a previously built generation is allowed.
 
 The list of rules may change. The goal is to make configuration in NixOS fun.
