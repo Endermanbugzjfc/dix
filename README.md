@@ -9,7 +9,7 @@
 2. Configure your NixOS by editing and running that command in any shell.
 3. Shell history will be the only way to store your NixOS configuration.
 4. Run the build command on the same shell session every time unless all your shell sessions share the same history.
-5. If your configuration becomes missing from the shell history, you lose and have to start over.
+5. If your configuration becomes missing from the shell history, you have to start over.
 6. The configuration cannot read from any file on disk except /nix/store.
 7. `github:nixos/nixpkgs/nixos-unstable` is the only flake input.
 8. Fetchers are allowed.
