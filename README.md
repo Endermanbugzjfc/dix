@@ -2,6 +2,8 @@
 Dix is a hardcore challenge for NixOS users:
 build NixOS each time with nothing more than one line of shell command.
 
+This challenge is inspired by https://github.com/tsoding/Crust.
+
 # The Rules of Dix
 
 1. Start with this template Bash command:
