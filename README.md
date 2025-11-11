@@ -1,3 +1,7 @@
+# Dix
+Dix is a hardcore challenge for NixOS users:
+build NixOS each time with nothing more than one line of shell command.
+
 # The Rules of Dix
 
 1. Start with this template Bash command:
